@@ -36,11 +36,11 @@ facebook-engagement-analysis
 │
 ├── code
 │   ├── 01_explore.ipynb
-│   ├── 02_clean.ipynb
+│   ├── 02_transform.ipynb
 │   └── 03_model.ipynb
 │
 ├── docs
-│   └── images / visualizations
+│   └── images
 │
 └── README.md
 ```
