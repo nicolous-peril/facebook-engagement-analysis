@@ -1,6 +1,6 @@
 # Facebook Engagement Analysis
 
-**Predicting Post Engagement Using Linear Regression**
+**Predicting Post Engagement Using Linear Regression, Ridge, and Lasso**
 
 This project analyzes a Facebook page dataset to understand the factors that drive post engagement. Using Python, data exploration, feature engineering, and machine learning, I built regression models to predict how much interaction a post will receive.
 
